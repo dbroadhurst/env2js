@@ -1,18 +1,22 @@
 {
-  "name": "env2js",
-  "version": "1.0.4",
-  "description": "Add environment variables to config template file",
-  "main": "index.js",
-  "bin" : {
-    "env2js": "./env2js.js"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": ["docker", "environment", "config"],
-  "author": "David Broadhurst",
-  "license": "MIT",
-  "dependencies": {
-    "minimist": "^1.2.0"
-  }
+	"name": "env2js",
+	"version": "1.0.4",
+	"description": "Add environment variables to config template file",
+	"main": "index.js",
+	"bin": {
+		"env2js": "./env2js.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/dbroadhurst/env2js"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": ["docker", "environment", "config"],
+	"author": "David Broadhurst",
+	"license": "MIT",
+	"dependencies": {
+		"minimist": "^1.2.0"
+	}
 }
