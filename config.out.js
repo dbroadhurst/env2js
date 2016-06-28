@@ -1,5 +1,5 @@
 
 var config = {
-	debug: 'debug1234',
-	env: 'env1234'
+	debug: '1',
+	env: 'DEBUG'
 };

@@ -1,6 +1,6 @@
 {
   "name": "env2js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Add environment variables to config template file",
   "main": "index.js",
   "bin" : {
