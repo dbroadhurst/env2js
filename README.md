@@ -29,8 +29,8 @@ var config = {
 
 run
 
-```bash
-node index.js --in config.js --out config.out.js
+```
+node env2js.js --in config.js --out config.out.js
 ```
 
 result

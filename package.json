@@ -1,10 +1,10 @@
 {
   "name": "env2js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Add environment variables to config template file",
   "main": "index.js",
   "bin" : {
-    "env2js": "./index.js"
+    "env2js": "./env2js.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
